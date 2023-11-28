@@ -34,4 +34,4 @@ ENTRYPOINT [ "java", \
    "-Dwebwolf.host=0.0.0.0", \
    "-Dwebgoat.port=8080", \
    "-Dwebwolf.port=9090", \
-   "-jar", "webgoat.jar" ]
+   "-jar", "webgoat.jar" ]asdfasd
