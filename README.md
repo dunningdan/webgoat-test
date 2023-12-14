@@ -123,7 +123,7 @@ To change the IP address add the following variable to the `WebGoat/webgoat-cont
 
 ```
 server.address=x.x.x.x
-```
+```test
 
 ## 4. Run with custom menu
 
